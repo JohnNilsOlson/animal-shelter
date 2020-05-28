@@ -37,3 +37,8 @@
 img {
   width: 200px;
 }
+
+body p {
+  font-family: sans-serif;
+  color: darkgray;
+}
